@@ -1,122 +1,69 @@
-# Hi there, I'm Sai Kushal 👋
+# Hi 👋, I'm Sai Kushal Vittanala
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kushal.orravyn.info/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kushal-vittanala)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikushal185@gmail.com)
-  
-  **Aspiring Data Scientist | Full Stack Developer | Computer Vision Enthusiast**
-  
-</div>
+### An aspiring Data Scientist and Full Stack Developer from India
 
----
+- 🔭 I'm currently working on **Computer Vision and Machine Learning projects**
+- 🌱 I'm currently learning **Advanced Data Science, MLOps, and Cloud Analytics**
+- 👯 I'm looking to collaborate on **Data Science, Machine Learning, and Web Development projects**
+- 💬 Ask me about **Python, Data Analytics, Power BI, React, Node.js**
+- 📫 How to reach me **saikushal185@gmail.com**
+- 🎯 **Goal:** To become a Data Scientist and leverage AI/ML for impactful solutions
+- 📊 Fun fact: I published research on kidney disease prediction with **92.31% accuracy**
 
-## 🚀 About Me
+## Connect with me:
 
-I'm a Computer Science undergraduate at **Vellore Institute of Technology** with a passion for transforming data into actionable insights. My journey combines software development, data analytics, and machine learning to solve real-world problems.
+<p align="left">
+<a href="https://linkedin.com/in/sai-kushal-vittanala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-kushal-vittanala" height="30" width="40" /></a>
+<a href="https://kushal.orravyn.info/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="mailto:saikushal185@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
+</p>
 
-- 🎓 Pursuing B.Tech in CSE (CGPA: 8.42/10)
-- 🔭 Currently working on **Computer Vision** and **Machine Learning** projects
-- 🌱 Learning advanced **Data Science** techniques and cloud technologies
-- 🎯 Goal: To become a **Data Scientist** and leverage AI for meaningful impact
-- 📊 Published research on kidney disease prediction using ML (92.31% accuracy)
-- 💡 Love building interactive dashboards and automation systems
+## Languages and Tools:
 
----
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
 
-## 🛠️ Tech Stack
+## ⚡ Stats ⚡
 
-### Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikushal185&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</p>
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikushal185&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</p>
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Featured Projects
-
-### 📊 [Power BI Sales Dashboard](https://github.com/Saikushal185)
-Analyzed 25K+ orders across multiple categories to uncover sales patterns and improve forecasting accuracy by 20-25%
-- **Impact:** Enhanced decision-making speed by 30%
-- **Tech:** Power BI, Excel, SQL, Data Analysis
-
-### 👁️ [Face Recognition System](https://github.com/Saikushal185)
-Real-time face detection system achieving 97% accuracy even in low-light conditions
-- **Performance:** 30 FPS processing speed, 65% reduction in manual monitoring
-- **Tech:** Python, TensorFlow, OpenCV
-
-### 🥊 [Fight Detection System](https://github.com/Saikushal185)
-Intelligent surveillance system detecting aggressive interactions with 91% accuracy
-- **Achievement:** 18 FPS on standard hardware with 65% fewer false positives
-- **Tech:** Python, OpenCV, Object Detection
-
-### 🎯 [Quiz Web Application](https://github.com/Saikushal185)
-Interactive quiz platform with live leaderboards and user authentication
-- **Result:** 40% increase in user engagement, 60% faster data loading
-- **Tech:** React.js, Node.js, MongoDB, JavaScript
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikushal185&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</p>
 
 ---
 
-
----
-
-## 🏆 Certifications
-
-- ☁️ **AWS Certified:** Cloud Practitioner, Cloud Foundations, Cloud Architecting
-- 🤖 **Oracle Certified:** OCI 2025 Generative AI Professional
-- 📊 **Microsoft Certified:** Azure Data Fundamentals
-- 🗄️ **MongoDB University:** Intermediate Database Administration
-
----
-
-## 📝 Research & Publications
-
-**"Prediction of Kidney Disease and Urinary Disease using Machine Learning"**
-- Presented at ADSSS Conference 2024
-- Achieved 92.31% accuracy using classification algorithms
-- Improved early detection rates by 15% through model optimization
-
----
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on data science projects, discuss machine learning concepts, or explore new opportunities. Feel free to reach out!
-
-- 💼 Portfolio: [kushal.orravyn.info](https://kushal.orravyn.info/)
-- 💌 Email: saikushal185@gmail.com
-- 🔗 LinkedIn: [sai-kushal-vittanala](https://linkedin.com/in/sai-kushal-vittanala)
-
----
-
-<div align="center">
-  
-  **"Data is the new oil, and I'm here to refine it into insights!"** ⚡
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Saikushal185&color=blueviolet&style=flat-square)
-  
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saikushal185&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
