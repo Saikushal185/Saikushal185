@@ -91,12 +91,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikushal185&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saikushal185&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" /></a>
-</p>
-
 ## 📈 Contribution Activity
 
 <p align="center">
