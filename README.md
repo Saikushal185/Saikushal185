@@ -91,15 +91,31 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikushal185&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
-## 🧾 Profile Summary
+## 💼 Open to Opportunities
+
+<table align="center">
+  <tr>
+    <td>🎯 <b>Role</b></td>
+    <td>Data Analyst / Data Scientist</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Work mode</b></td>
+    <td>Remote · Hybrid · Office</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>India · open to relocate</td>
+  </tr>
+  <tr>
+    <td>🟢 <b>Status</b></td>
+    <td>Available for full-time roles & collaborations</td>
+  </tr>
+</table>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saikushal185&theme=tokyonight" alt="profile summary" />
-</p>
-
-<p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saikushal185&theme=tokyonight" alt="repos per language" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saikushal185&theme=tokyonight&utcOffset=5.5" alt="productive time" />
+  <a href="mailto:saikushal185@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://linkedin.com/in/sai-kushal-vittanala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://saikushal.live" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ## 📈 Contribution Activity
