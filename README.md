@@ -91,6 +91,17 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikushal185&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
+## 🧾 Profile Summary
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saikushal185&theme=tokyonight" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saikushal185&theme=tokyonight" alt="repos per language" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saikushal185&theme=tokyonight&utcOffset=5.5" alt="productive time" />
+</p>
+
 ## 📈 Contribution Activity
 
 <p align="center">
