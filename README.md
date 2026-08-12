@@ -83,12 +83,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saikushal185&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" alt="stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saikushal185&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" alt="stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikushal185&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikushal185&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saikushal185&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 ## 💼 Open to Opportunities
